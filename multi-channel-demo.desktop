@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Multi Channel
+Icon=multi-channel-demo.png
+Type=Application
+Exec=/usr/bin/env bash -lc 'cd "$HOME/aries-multi-channel-demo" && ./run.sh'
+Terminal=true
